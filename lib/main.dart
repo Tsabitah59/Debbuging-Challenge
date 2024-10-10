@@ -40,11 +40,11 @@ class MyHomePage extends StatelessWidget {
               },
               child: const Text('Press Me'),
             ),
-            Image.network( 
-              'https://img.freepik.com/free-photo/pastel-sky-background-with-text-space_53876-125302.jpg',
-              height: 100,
-              width: 100,
-            ),
+            // Image.network( 
+            //   'https://img.freepik.com/free-photo/pastel-sky-background-with-text-space_53876-125302.jpg',
+            //   height: 100,
+            //   width: 100,
+            // ),
             Container(
               padding: const EdgeInsets.all(10),
               child: const Row(
