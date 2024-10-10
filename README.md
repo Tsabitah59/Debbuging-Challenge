@@ -3,7 +3,8 @@
 A new Flutter project.
 
 # SS Output
-![Uploading image.png…]()
+![Screenshot 2024-10-10 091612](https://github.com/user-attachments/assets/095f088b-2b78-4b2e-a6db-5518c5862861)
+
 
 
 ## Getting Started
